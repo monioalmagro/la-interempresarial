@@ -1,0 +1,49 @@
+body{
+  margin:0; 
+  padding: 0;
+  background-color: grey;
+
+}
+img{
+  max-width: 1012px;
+
+}
+iframe{
+  
+  margin: 0 auto;
+  display: block;
+}
+
+h1{
+  margin-top: 10px;
+  font-family: 'Righteous', cursive;
+  color: grey;
+}
+h2{
+  font-family: 'Aref Ruqaa', serif;
+  color:grey;
+}
+
+
+header{
+  margin: 0 auto;
+  padding: 0;
+
+  background-color: black;
+  text-align: center;
+  width: 100%;
+  max-width: 75rem;
+}
+
+.padre{
+  position: relative;
+}
+
+.hijo{
+  position: absolute;
+  top: 20%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+
+}
