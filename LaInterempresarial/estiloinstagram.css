@@ -1,0 +1,44 @@
+body{
+	background-color: #ece9e9;
+	padding: 0;
+	margin: 0;
+}
+
+
+#cabecera{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+
+}
+#cuerpo{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	position: relative;
+}
+.hijo{
+	position: absolute;
+	top: 20%;
+  	left: 0;
+  	right: 0;
+  	margin: 0 auto;
+}
+#piepadre{
+	margin: 10;
+	padding: 0;
+	text-align: center;
+	position: relative;
+	background-color: blue;
+
+}
+
+#pie{
+	position: absolute;
+	top: 20%;
+  	left: 0;
+  	right: 0;
+  	margin: 0 auto;
+  	max-width: 900px;
+  	background-color:#726e6e; 
+}
